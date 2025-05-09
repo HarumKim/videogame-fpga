@@ -26,6 +26,3 @@ As part of a precision agriculture initiative, this simulation enables users to 
 ![image](https://github.com/user-attachments/assets/4b96a5b5-5bb2-43d3-9ac1-91ac740969af)
 
 
----
-
-Feel free to explore each folder for detailed implementation and contributions from both hardware and software perspectives.
