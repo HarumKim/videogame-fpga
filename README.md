@@ -2,6 +2,8 @@
 
 This repository contains the complete implementation of an educational tractor simulation game that integrates an FPGA DE10-Lite board with Unity 3D to deliver a real-time, interactive agricultural environment. Developed as part of a 4th-semester engineering project, it aims to bridge embedded systems with virtual simulation.
 
+![image](https://github.com/user-attachments/assets/4b96a5b5-5bb2-43d3-9ac1-91ac740969af)
+
 ## 🎯 Project Overview
 
 As part of a precision agriculture initiative, this simulation enables users to control a virtual tractor using physical switches and buttons connected to an FPGA. The FPGA processes user inputs and communicates with the Unity game via serial communication, creating an immersive and realistic gameplay experience.
@@ -21,8 +23,9 @@ As part of a precision agriculture initiative, this simulation enables users to 
 - `Gumnut/` – Source code for Gumnut processor implementation and interfacing
 - `SerialCommunication/` – Scripts and protocol used to sync FPGA with Unity
 
-## 📷 Preview
+## 🎥 Preview Video
 
-![image](https://github.com/user-attachments/assets/4b96a5b5-5bb2-43d3-9ac1-91ac740969af)
+Click the image below to watch the full simulation demo:
 
+[![Agricultural Simulation Demo](https://github.com/user-attachments/assets/4b96a5b5-5bb2-43d3-9ac1-91ac740969af)](https://tecmx-my.sharepoint.com/:v:/g/personal/a00836962_tec_mx/IQA-_7ExXTk5R4sEul1DbavrAbmiKn-ztkik6QBHInWlAms)
 
